@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @SamuelMatlock
 
-*A 2022 graduate of the University of California, Irvine. Conscientious and motivated. I am currently teaching K-12 students fundamental programming courses while also beginning my path to front-end web development. Currently attending boot camp, planning to graduate and begin professional work in December. My interest is front-end web development, and I am looking forward to meeting more professionals in the field and furthering myself.* 
+*Front-end developer with special focuses in Isomorphic High-Performance JavaScript Apps, as well as Web Assets & Storage. Graduate of the University of California, Irvine. Currently attending Tech Elevator full-stack development BootCamp while planning to begin professional work as a full-time developer in December. I look forward to meeting more professionals in the software engineering field and furthering myself, so please don't hesitate to connect!* 
 
 Currently studying at the TechElevator Bootcamp :mortar_board: Can't wait to meet more people in the profession!
 
