@@ -4,4 +4,4 @@
 
 Currently studying at the TechElevator Bootcamp :mortar_board: Can't wait to meet more people in the profession!
 
-**📫You can reach me at:** [My Website](https://samuelmatlock.com) / [LinkedIn](https://linkedin.com/in/samuelmatlock/) / [Twitter](https://twitter.com/samuelmatlock)DAILY
+**📫You can reach me at:** [My Website](https://samuelmatlock.com) / [LinkedIn](https://linkedin.com/in/samuelmatlock/) / [Twitter](https://twitter.com/samuelmatlock)
