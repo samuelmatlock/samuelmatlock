@@ -4,4 +4,4 @@
 
 Coder with a long-term goal of working projects with positive social impact. I like meeting new people! @samuelmatlock.com
 
-**Skills:** OOP (Python, Java), WebDev (JavaScript [Vue.js, React.js], TypeScript, CSS)
+**SKILLS:** OOP (Python, Java), WebDev (JavaScript [Vue.js, React.js], TypeScript, CSS)
