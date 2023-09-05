@@ -8,5 +8,5 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="7%" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.linkedin.com/in/samuelmatlock"><img width="7%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/samuelmatlock"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
-  <a href="https://www.github.com/samuelmatlock"><img width="7%" src="https://img.icons8.com/color/22/000000/resume.png" alt="linkedin"/></a>
+  <a href="https://www.github.com/samuelmatlock"><img width="7%" src="https://img.icons8.com/color/00/000000/resume.png" alt="linkedin"/></a>
 </div>
