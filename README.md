@@ -9,4 +9,4 @@
   <a href="https://www.github.com/samuelmatlock"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="github"/></a>
   <a href="http://samuelmatlock.com"><img width="7%" src="https://img.icons8.com/color/00/0C0C0C/resume.png" alt="resume"/></a>
 </div>
-![](https://raw.githubusercontent.com/samuelmatlock/samuelmatlockcard/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
