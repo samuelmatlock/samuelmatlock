@@ -9,4 +9,3 @@
   <a href="https://www.github.com/samuelmatlock"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="github"/></a>
   <a href="http://samuelmatlock.com"><img width="7%" src="https://img.icons8.com/color/00/0C0C0C/resume.png" alt="resume"/></a>
 </div>
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={samuelmatlock}&theme={nord_bright}
