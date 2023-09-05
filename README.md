@@ -1,4 +1,4 @@
-<div align="center"><h2><b>Samuel Matlock</b></h2>
+<div align="center"><h1><b>Samuel Matlock</b></h1>
 
 <img height=22px src="https://komarev.com/ghpvc/?username=samuelmatlock&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmatlock"/>
 
