@@ -7,5 +7,5 @@
   <a href="https://twitter.com/samuelmatlock"><img width="5%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/samuelmatlock"><img width="5%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/samuelmatlock"><img width="5%" src="https://img.icons8.com/color/96/000000/github.png" alt="github"/></a>
-  <a href="https://www.samuelmatlock.com/SamuelMatlockResume.pdf" target="_blank"><img width="5%" src="https://img.icons8.com/color/00/0C0C0C/resume.png" alt="resume"/></a>
+  <a href="https://www.samuelmatlock.com/SamuelMatlockResume.pdf" target="_blank" rel="noopener noreferrer"><img width="5%" src="https://img.icons8.com/color/00/0C0C0C/resume.png" alt="resume"/></a>
 </div>
